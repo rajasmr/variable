@@ -10,7 +10,7 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_ADDRESS:cluster0.65ker.mongodb.net
+      MONGODB_CLUSTER_ADDRESS: cluster0.65ker.mongodb.net
       MONGODB_USERNAME: rajasundram
       MONGODB_PASSWORD: tBT6kMjN9uxyzFOb
       PORT: 8080
